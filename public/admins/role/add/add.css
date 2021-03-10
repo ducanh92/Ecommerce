@@ -1,0 +1,17 @@
+#role-form {
+    width: 100%;
+}
+
+.card-header {
+    background-color: aquamarine !important;
+}
+
+input[type="checkbox"] {
+    transform: scale(1.2);
+}
+
+#check_all_wrapper {
+    margin-bottom: 5px;
+    color: blue;
+    font-weight: bold;
+}
